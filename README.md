@@ -1,4 +1,5 @@
 #EventEase
+
 #EventEase is a Java-based Event Management System designed to help users organize and manage events efficiently.
 
 #Features
@@ -15,11 +16,11 @@
 
 #Technologies Used
 
-- Java
-- Object-Oriented Programming
-- Git
-- Github
-- SonarQube
+ Java
+ Object-Oriented Programming
+ Git
+ Github
+ SonarQube
 
 #How to run
 
